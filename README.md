@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Denver
 
-### Full-stack developer focused on building scalable systems and understanding how things work under the hood.
+### Full-stack developer specializing in backend systems, APIs, and end-to-end application architecture.
 
 ---
 
 ## 🚀 About Me
 Software Development student at Southern Alberta Institute of Technology (SAIT), based in Calgary, Canada.  
 
-I focus on backend-heavy full-stack development — building APIs, designing systems, and making sure everything works end-to-end, not just on the surface.
+I build full-stack applications with a strong focus on backend systems, API design, and debugging real-world issues across the entire stack. I care about understanding how systems actually work — not just making them run.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,cpp,c,react,html,css,tailwind,nodejs,express,mysql,firebase,azure,git,github,postman&perline=8)
 
@@ -20,7 +20,11 @@ I focus on backend-heavy full-stack development — building APIs, designing sys
 ## 📦 Featured Projects
 
 ### 🌱 Greenery (Salsa Verde)  
+🔗 https://github.com/Denver-T/greenery  
+
 Full-stack plant service management platform designed to streamline field operations, task assignment, and real-time tracking across mobile and web clients.
+
+> Built as a team-based system simulating real-world service operations with mobile, API, and database integration.
 
 **Scope:**
 - Technician-focused mobile app for managing assigned work  
@@ -31,7 +35,7 @@ Full-stack plant service management platform designed to streamline field operat
 **My Role:**
 - Led backend architecture and API development (Node.js, Express)  
 - Designed role-based access control (technician, manager, admin)  
-- Built and validated RESTful endpoints for tasks and work requests  
+- Designed and implemented RESTful APIs for tasks and work requests  
 - Integrated Firebase Auth with backend verification (Admin SDK)  
 - Debugged cross-layer issues between mobile, API, and database systems  
 
@@ -41,6 +45,7 @@ Full-stack plant service management platform designed to streamline field operat
 - Connected mobile client to backend with real-time updates  
 - Resolved schema mismatches and unified legacy + new data models  
 - Created internal tooling for role and permission management  
+- Diagnosed and fixed end-to-end data flow issues across the stack  
 
 ---
 
@@ -55,8 +60,16 @@ Interactive data visualization platform connected to live cloud APIs.
 
 ---
 
+## 🧩 What I Care About
+- Writing clean, maintainable backend code  
+- Understanding how systems behave end-to-end  
+- Debugging complex issues across multiple layers  
+- Building applications that are actually production-ready  
+
+---
+
 ## 🧠 What I'm Working On
-- Designing cleaner, more scalable backend architectures  
+- Designing more scalable backend architectures  
 - Improving system design and debugging skills  
 - Building production-ready full-stack applications  
 
@@ -68,4 +81,4 @@ Interactive data visualization platform connected to live cloud APIs.
 ---
 
 ## ⚡ Mindset
-> I care more about understanding systems deeply than just getting them to work.
+> I prioritize understanding systems deeply so I can build, debug, and scale them with confidence.
